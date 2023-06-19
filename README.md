@@ -1,3 +1,4 @@
+# Mathematics_for_Machine_Learning
 
 <p align="center"><img width="auto" src="https://github.com/TheKidPadra/Mathematics_for_Machine_Learning/blob/main/Assets/maxresdefault.png" /></p>
 
