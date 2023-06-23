@@ -1,32 +1,4 @@
-# Mathematics_for_Machine_Learning
 
-<p align="center"><img width="auto" src="https://github.com/TheKidPadra/Mathematics_for_Machine_Learning/blob/main/Assets/maxresdefault.png" /></p>
-
-Become Proficient in the Mathematical Foundations of AI and Machine Learning. The Mathematics for Machine Learning and Data Science specialization offers a beginner-friendly approach to mastering the fundamental mathematical toolkit of machine learning, including calculus, linear algebra, statistics, and probability.
-
-## WHAT YOU WILL LEARN
-- Implement mathematical concepts using real-world data
-- Derive PCA from a projection perspective
-- Understand how orthogonal projections work
-- Master PCA
-
----
-
-## SKILLS YOU WILL GAIN
-- Eigenvalues And Eigenvectors
-- Principal Component Analysis (PCA)
-- Multivariable Calculus
-- Linear Algebra
-- Linear Regression
-- Linear Equation
-- Eigenvalues And Eigenvectors
-- Transformation Matrix
-- Vector Calculus
-- Gradient Descent
-- Mathematical Optimization
-- Dimensionality Reduction
-
----
 
 ## About this Specialization
 
